@@ -3,27 +3,6 @@
 
 int main(void) {
 
-
-  // Control Statement IF ELSE
-
-  
-   int num;
-  printf("Enter a Number ");
-  scanf("%d", &num);
-  if(num<0) {
-    printf("Number is negative ");
-  } else {
-    printf("Number is postive ");
-  }
-/*
-  int num1,num2;
-  printf("Enter 2 numbers");
-  scanf("%d %d", &num1,&num2);
-  if(num1>num2) {
-    printf(" Greatest number is %d", num1);
-  } else {
-    printf(" Greatest numbers is %d", num2);
-  } */
 /*
   int num1,num2, choice, result;
   printf("Enter 2 numbers ");
