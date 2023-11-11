@@ -3,21 +3,10 @@
 
 int main(void) {
 
-//SWAPPING
-/*
-  int a = 20, b = 50, temp;
-
-  temp = a;
-  a = b;
-  b = temp;
-
-  printf("a:%d b:%d", a,b);
-  */
-
 
   // Control Statement IF ELSE
 
-  /*
+  
    int num;
   printf("Enter a Number ");
   scanf("%d", &num);
@@ -25,7 +14,7 @@ int main(void) {
     printf("Number is negative ");
   } else {
     printf("Number is postive ");
-  }*/
+  }
 /*
   int num1,num2;
   printf("Enter 2 numbers");
@@ -58,7 +47,7 @@ int main(void) {
   }*/
 
   // SWITCH STATEMENT
-
+/*
   int choice;
   printf("1 for Biryani \n2 for porota \n3 for Fride Rice \n4 for Mandhi \nEnter your choice");
   scanf("%d", &choice);
@@ -78,7 +67,7 @@ int main(void) {
       default:
     printf("Fool!!!");
     
-  }
+  }*/
   
   return EXIT_SUCCESS;
 }
